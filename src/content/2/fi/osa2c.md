@@ -647,6 +647,7 @@ Oletetaan että API-avaimen arvo on <i>54l41n3n4v41m34rv0</i>. Kun ohjelma käyn
 
 ```bash
 REACT_APP_API_KEY=54l41n3n4v41m34rv0 npm start
+  
 ```
 
 koodista päästään avaimen arvoon käsiksi olion _process.env_ kautta:
